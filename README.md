@@ -1,11 +1,11 @@
-# Welcome to this site
-This site is maintained by [Surat Das](https://github.com/suratdas). Here, I list down my contributions to open source projects for easy reference.
+Welcome to this site maintained by [Surat Das](https://github.com/suratdas). 
+Below is a list of my contributions to open source projects.
 
 ## My Github contributions
 Contribution Type|Link
 -----------------|----
-|Code            |[Pull Requests](https://github.com/pulls?q=is%3Apr+author%3Asuratdas+archived%3Afalse)|
-|Issues Raised   |[Issues](https://github.com/issues?q=is%3Aissue+author%3Asuratdas+archived%3Afalse)|
+|Code            |[Pull Requests](https://github.com/search?q=author%3Asuratdas+is%3Amerged)|
+|Issues Raised   |[Issues](https://github.com/search?q=is%3Aissue+author%3Asuratdas)        |
 
 ## Issues in Chromium
 Issue For      | Priority   | Link To The Issue Raised
