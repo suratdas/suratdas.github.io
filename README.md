@@ -1,5 +1,6 @@
 Welcome to this site maintained by [Surat Das](https://github.com/suratdas). 
 Below is a list of my contributions to open source projects.
+![Surat's GitHub stats](https://github-readme-stats.vercel.app/api?username=suratdas&theme=react&show_icons=true&hide=stars&include_all_commits=true) 
 
 ## My Github contributions
 Contribution Type|Link
