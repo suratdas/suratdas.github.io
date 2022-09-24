@@ -8,9 +8,8 @@ Contribution Type              |Link
 -----------------              |----
 |Code                          |[Pull Requests](https://github.com/search?q=author%3Asuratdas+is%3Amerged)|
 |Issues Raised                 |[Issues](https://github.com/search?q=is%3Aissue+author%3Asuratdas)        |
-|Open Source Repository Owner  |[Orrish Automation](https://github.com/Orrish-Automation/orrish-core)     |
 
-## Releases with my changes
+## Open source releases with my changes
 Project|Contribution Details
 -------|-------------
 |[FitNesse](http://fitnesse.org/)|[Release 20220319](https://github.com/unclebob/fitnesse/pull/1343) , [20220319](https://github.com/unclebob/fitnesse/pull/1344) , [20210410](https://github.com/unclebob/fitnesse/pull/1318)|
