@@ -6,7 +6,8 @@ Below is a list of my contributions to open source projects.
 ## My Github contributions
 Contribution Type              |Link
 -----------------              |----
-|Code                          |[Pull Requests](https://github.com/search?q=author%3Asuratdas+is%3Amerged)|
+|Code                          |[Merged Pull Requests](https://github.com/search?q=author%3Asuratdas+is%3Amerged)|
+|CI, Documentation             |[FitNesse](https://github.com/unclebob/fitnesse/pull/1391) , [Appium Test Distribution](https://github.com/AppiumTestDistribution/AppiumTestDistribution)|
 |Issues Raised                 |[Issues](https://github.com/search?q=is%3Aissue+author%3Asuratdas)        |
 
 ## Open source releases with my changes
@@ -15,9 +16,8 @@ Project|Contribution Details
 |[FitNesse](http://fitnesse.org/)|[Release 20220319](https://github.com/unclebob/fitnesse/pull/1343) , [20220319](https://github.com/unclebob/fitnesse/pull/1344) , [20210410](https://github.com/unclebob/fitnesse/pull/1318)|
 |[Jenkins FitNesse Plugin](https://plugins.jenkins.io/fitnesse/)| [Release 1.36](https://github.com/jenkinsci/fitnesse-plugin/pull/42) , [1.28](https://github.com/jenkinsci/fitnesse-plugin/pull/36) , [1.24](https://github.com/jenkinsci/fitnesse-plugin/pull/32)|
 |[Visual Regression Tracker](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker)|[VRT contributor](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker#contributors-) , [Multiple Releases](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker/releases)|
-|[Appium Test Distribution](https://github.com/AppiumTestDistribution/AppiumTestDistribution)|[Documentation in README](https://github.com/AppiumTestDistribution/AppiumTestDistribution/pull/903)|
 
-## Issues in Chromium
+## Issues I raised in Chromium project
 Issue For      | Priority   | Link To The Issue Raised
 -------------- | ---------- | ------------------------
 Android Chrome | Priority 1 | [Issue 1015](https://bugs.chromium.org/p/chromedriver/issues/detail?id=1015)|
