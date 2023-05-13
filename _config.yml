@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
-title: Surat's page
-description: Shows Surat Das's open source contributions
+title: Welcome to Surat's page
+description: I define, architect, implement test/build/task/process automation frameworks for API/database/web/mobile with open source tools from scratch. I also lead full stack development in desktop tool, backend server and build websites providing a code-less and setup-less automation solution for all teams thereby achieving shift-left goals and improving productivity. I am an open source contributor. I manage and configure automation related tols/infrastructure including CI jobs, code coverage, service monitoring, visual, accessibility tests etc. Below open source contributions demonstrate some of my skills.
+
 markdown: GFM
