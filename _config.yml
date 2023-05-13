@@ -1,2 +1,4 @@
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-cayman
+title: Surat's page
+description: Shows Surat Das's open source contributions
 markdown: GFM

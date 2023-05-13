@@ -6,14 +6,14 @@ Below is a list of my contributions to open source projects.
 ## My Github contributions
 Contribution Type              |Link
 -----------------              |----
-|Code                          |[Merged Pull Requests](https://github.com/search?q=author%3Asuratdas+is%3Amerged)|
+|Code                          |[Merged Pull Requests](https://github.com/search?q=author%3Asuratdas&type=pullrequests&s=created&o=desc)|
 |CI, Documentation             |[FitNesse](https://github.com/unclebob/fitnesse/pull/1391) , [Appium Test Distribution](https://github.com/AppiumTestDistribution/AppiumTestDistribution)|
-|Issues Raised                 |[Issues](https://github.com/search?q=is%3Aissue+author%3Asuratdas)        |
+|Issues Raised                 |[Issues](https://github.com/search?q=author%3Asuratdas&type=issues&s=created&o=desc)        |
 
 ## Open source releases with my changes
 Project|Contribution Details
 -------|-------------
-|[FitNesse](http://fitnesse.org/)|[Release 20220319](https://github.com/unclebob/fitnesse/pull/1343) , [20220319](https://github.com/unclebob/fitnesse/pull/1344) , [20210410](https://github.com/unclebob/fitnesse/pull/1318)|
+|[FitNesse](http://fitnesse.org/)|Release 20230503 - [pull#1](https://github.com/unclebob/fitnesse/pull/1403) & [pull#2](https://github.com/unclebob/fitnesse/pull/1409) , 20220319 [pull#1](https://github.com/unclebob/fitnesse/pull/1343) & [pull#2](https://github.com/unclebob/fitnesse/pull/1344) , [20210410](https://github.com/unclebob/fitnesse/pull/1318)|
 |[Jenkins FitNesse Plugin](https://plugins.jenkins.io/fitnesse/)| [Release 1.36](https://github.com/jenkinsci/fitnesse-plugin/pull/42) , [1.28](https://github.com/jenkinsci/fitnesse-plugin/pull/36) , [1.24](https://github.com/jenkinsci/fitnesse-plugin/pull/32)|
 |[Visual Regression Tracker](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker)|[VRT contributor](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker#contributors-) , [Multiple Releases](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker/releases)|
 
