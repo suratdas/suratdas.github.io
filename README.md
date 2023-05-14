@@ -1,4 +1,4 @@
-![Surat's GitHub stats](https://github-readme-stats.vercel.app/api?username=suratdas&show_icons=true&hide=stars&include_all_commits=true) 
+![](https://github-readme-stats.vercel.app/api?username=suratdas&show_icons=true&hide=stars&include_all_commits=true&custom_title=Surat%27s%20Github%20Stats%20%28Java%2C%20TypeScript%2C%20Shell%29)
 
 ## My Github contributions
 Contribution Type              |Link

@@ -1,5 +1,4 @@
 theme: jekyll-theme-cayman
 title: Welcome to Surat's page
-description: I define, architect, implement test/build/task/process automation frameworks for API/database/web/mobile with open source tools from scratch. I also lead full stack development in desktop tool, backend server and build websites providing a code-less and setup-less automation solution for all teams thereby achieving shift-left goals and improving productivity. I am an open source contributor. I manage and configure automation related tols/infrastructure including CI jobs, code coverage, service monitoring, visual, accessibility tests etc. Below open source contributions demonstrate some of my skills.
-
+description: I define, architect, implement test/build/process automation frameworks for API/database/web/mobile with open source tools. I also lead full stack development in desktop app, backend server and build websites providing a code-less and setup-less automation solution for all teams thereby achieving shift-left goals and improving productivity. I am an open source contributor and integrate/configure/manage automation related tools/infrastructure including docker, CI jobs, code coverage, service monitoring, visual/accessibility tests etc. Below open source contributions demonstrate some of my works.
 markdown: GFM
