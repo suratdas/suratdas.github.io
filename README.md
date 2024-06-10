@@ -10,7 +10,7 @@ Contribution Type              |Link
 ## Open source releases with my changes
 Project|Contribution Details
 -------|-------------
-|[FitNesse](http://fitnesse.org/)|Release 20230503 - [#1403](https://github.com/unclebob/fitnesse/pull/1403),[#1409](https://github.com/unclebob/fitnesse/pull/1409) :: Release 20220319 - [#1343](https://github.com/unclebob/fitnesse/pull/1343),[#1344](https://github.com/unclebob/fitnesse/pull/1344) :: [Release 20210410](https://github.com/unclebob/fitnesse/pull/1318)|
+|[FitNesse](http://fitnesse.org/)|[Release 20240219](https://github.com/unclebob/fitnesse/pull/1468) :: Release 20230503 - [#1403](https://github.com/unclebob/fitnesse/pull/1403),[#1409](https://github.com/unclebob/fitnesse/pull/1409) :: Release 20220319 - [#1343](https://github.com/unclebob/fitnesse/pull/1343),[#1344](https://github.com/unclebob/fitnesse/pull/1344) :: [Release 20210410](https://github.com/unclebob/fitnesse/pull/1318)|
 |[Jenkins FitNesse Plugin](https://plugins.jenkins.io/fitnesse/)| [Release 1.36](https://github.com/jenkinsci/fitnesse-plugin/pull/42) , [1.28](https://github.com/jenkinsci/fitnesse-plugin/pull/36) , [1.24](https://github.com/jenkinsci/fitnesse-plugin/pull/32)|
 |[Visual Regression Tracker](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker)|[VRT contributor](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker#contributors-) , [Multiple Releases](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker/releases)|
 
